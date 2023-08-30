@@ -17,6 +17,8 @@ You will be taken to a page prompting you to create a **New personal access toke
 - Select the **repo** and **user** scopes. You'll note that when you select these scopes, all of their sub-scopes are also selected - ensure your selections match what is in the screenshot below. When you have done so, click the **Generate token** button.
     
 
+    <img src="./assets/creation.png"/>
+
 You will be taken back to the **Personal access tokens** page, and the token you just created will be visible:
     
 <img src="./assets/created.png"/>
